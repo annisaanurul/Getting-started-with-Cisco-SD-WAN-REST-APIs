@@ -147,7 +147,7 @@ Attached Site 3 vEdge Template
 
 To detach a template from a specific device you need to call the detach option of the application and pass in the parameters for the target device ID and the system-ip of that device:
 
-`./sdwan.py detach --target 0140a336-5fd5-9829-10d2-f6ba0b177efd --sysip 10.10.1.17`
+`./sdwan.py detach --target 0140a336-5fd5-9829-10d2-f6ba0b177efd --sysip 10../sdwan.py device_list10.1.17`
 
 OUTPUT
 
